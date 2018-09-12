@@ -3,13 +3,10 @@ This repo contains my machine learning projects and notes with different framewo
 
 ### Content
 
- - [Logistic Regression](Projects/Logistic Regression.md)
+ - [Logistic Regression](projects/logistic_regression.md)
 
-   This sample ETL script shows you how to use AWS Glue to load, transform,
-   and rewrite data in AWS S3 so that it can easily and efficiently be queried
-   and analyzed.
+   Will be exploring Logistic regression in Spark , Keras, and  scikit-learn.
 
- - [K-Means](Projects/K-Means.md)
+ - [K-Means](projects/k_means.md)
 
-   This sample ETL script shows you how to take advantage of both Spark and
-   AWS Glue features to clean and transform data for efficient analysis.
+   Will be exploring K-means Clustering in Spark , Keras, and  scikit-learn.
