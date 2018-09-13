@@ -3,10 +3,10 @@ This repo contains my machine learning projects and notes with different framewo
 
 ### Content
 
- - [Logistic Regression](projects/logistic_regression/logistic_regression.md)
+ - [Logistic Regression](projects/logistic_regression)
 
    Will be exploring Logistic regression in Spark , Keras, and  scikit-learn.
 
- - [K-Means](projects/k_means/k_means.md)
+ - [K-Means](projects/k_means)
 
    Will be exploring K-means Clustering in Spark , Keras, and  scikit-learn.
