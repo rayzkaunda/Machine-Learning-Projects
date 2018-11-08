@@ -10,6 +10,10 @@ This repo contains my machine learning projects and notes with different framewo
  - [K-Means](projects/k_means)
 
    Will be exploring K-means Clustering in Spark , Keras, and  scikit-learn.
+   
+- [Deep_Learning](projects/deep_learning_spark)
+
+  Exploring Deep Learning in Spark
 
  - [Extracting transforming and selecting features](projects/extracting_transforming_and_selecting_features)
 
